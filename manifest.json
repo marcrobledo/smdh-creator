@@ -1,0 +1,16 @@
+{
+	"short_name":"SMDH Creator",
+	"name":"SMDH Creator",
+	"icons":[
+			"src": "smdh_creator.png",
+			"sizes": "128x128",
+			"type": "image/png",
+			"density": "1.0"
+		}
+	],
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"theme_color": "#4298c5",
+	"background_color": "#4298c5"
+}
